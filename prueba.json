@@ -1,5 +1,5 @@
-[
+{
  	{"id":1,"titulo":"Desayunos","descripcion":"3 Combos 3 Desayunos 0 Bloqueados","status":true},
  	{"id":2,"titulo":"Comida del Día","descripcion":"3 Combos 3 Desayunos 0 Bloqueados","status":true},
  	{"id":3,"titulo":"Cenas","descripcion":"3 Combos 3 Desayunos 0 Bloqueados","status":true}
-]
+}
